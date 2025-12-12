@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova.plugins.diagnostic"
-    version="7.2.7">
+    version="7.2.8">
 
     <name>Diagnostic</name>
     <description>Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.</description>
@@ -14,7 +14,7 @@
         <engine name="cordova-android" version=">=8.0.0"/>
         <engine name="cordova-ios" version=">=5.0.0"/>
     </engines>
-    <repo>https://github.com/dpa99c/cordova-diagnostic-plugin.git</repo>
+    <repo>https://github.com/thing-it/cordova-diagnostic-plugin.git</repo>
     <issue>https://github.com/dpa99c/cordova-diagnostic-plugin/issues</issue>
 
     <platform name="ios">
