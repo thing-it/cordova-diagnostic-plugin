@@ -1,17 +1,17 @@
 {
-    "version": "7.2.7",
-    "name": "cordova.plugins.diagnostic",
+    "version": "7.2.8",
+    "name": "@thing-it/cordova.plugins.diagnostic",
     "cordova_name": "Diagnostic",
     "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.",
     "author": "Dave Alden",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dpa99c/cordova-diagnostic-plugin.git"
+        "url": "https://github.com/thing-it/cordova-diagnostic-plugin.git"
     },
     "issue": "https://github.com/dpa99c/cordova-diagnostic-plugin/issues",
     "cordova": {
-        "id": "cordova.plugins.diagnostic",
+        "id": "@thing-it/cordova.plugins.diagnostic",
         "platforms": [
             "android",
             "ios"
